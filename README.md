@@ -1,6 +1,6 @@
-#Formação Power BI Analyst - DIO.
+<h1> Formação Power BI Analyst - DIO.</h1>
 
-#Detalhes da formação
+### Detalhes da formação
 Mergulhei no mundo de Análise de Dados de BI aplicada com Power BI. 
 A principal habilidade de um(a) profissional de dados está relacionada com a capacidade de transmitir os seus resultados de forma assertiva e clara. 
 Aprendi a executar todo o processo de ETL com a ferramenta de BI mais utilizada do mercado e assim apresentar relatórios e dashboards mais eficientes, organizados e superelegantes sem perder performance e desempenho.
@@ -11,7 +11,7 @@ E tudo isso com diversos projetos práticos sendo desenvolvidos durante a jornad
 Sendo assim,
 
 
-#Atividades:
+### Atividades:
 
 - Desafio de Código: Coloque em prática todo o conhecimento adquirido nas aulas e teste o seu conhecimento na resolução de um desafio.
 - Desafio de Projeto: Construa o seu portfólio construindo projetos práticos com o conhecimento adquirido ao longo das aulas.

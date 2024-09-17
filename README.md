@@ -18,29 +18,37 @@ Sendo assim,
 
 Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 
-# Modulo I
-![image](https://github.com/user-attachments/assets/c10ccc7b-ceea-4d36-a858-95067cc43c11)
+# Modulo I: Fundamentos de Análise de Dados e BI.
 
-![image](https://github.com/user-attachments/assets/68bdbf83-f8df-4d53-9777-076f828394a8)
-
-![image](https://github.com/user-attachments/assets/db2849f2-87a3-4354-83b3-874d5c6f6481)
-
-# Modulo II
-![image](https://github.com/user-attachments/assets/8824c601-140b-4b65-9c32-74ad7e477fb3)
-
-![image](https://github.com/user-attachments/assets/e3d396ec-9df0-40dc-9a4d-b6678f1b22c2)
-
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/8fd58396-ffba-436e-bb91-7f190b4e7977)
 
 
+![image](https://github.com/user-attachments/assets/a6647fb1-a8f1-4c2f-8428-f9c2316175ac)
+
+![image](https://github.com/user-attachments/assets/1a297c54-77e9-42f9-b2f2-ede2dcd3384a)
+
+![image](https://github.com/user-attachments/assets/afdf2fff-9847-4a94-b721-6a6d7323381e)
+
+![image](https://github.com/user-attachments/assets/b3fede95-0897-42bc-8154-cf89c77386f1)
+
+
+# Modulo II: Vizualização de Dados e Relátorios com Power BI.
 ![image](https://github.com/user-attachments/assets/935b72b3-cca8-403a-9bdc-3d5d1a8b4341)
 
 ![image](https://github.com/user-attachments/assets/c29252b0-849a-429e-88f4-472fe9162b75)
 
 
+![image](https://github.com/user-attachments/assets/8824c601-140b-4b65-9c32-74ad7e477fb3)
+
+![image](https://github.com/user-attachments/assets/e3d396ec-9df0-40dc-9a4d-b6678f1b22c2)
 
 
-# Modulo III
+# Modulo III: Processamento de Dados com Power BI.
+- Coleta, Extração, Limpeza, Tranformação e Integração com MySQL e Azure.
+
+
+# Modulo VI: Modelagem de Dados com Power BI.
+
 ![image](https://github.com/user-attachments/assets/7ee2eedd-5267-4e1b-a6be-c40861a56b0b)
 
 ![image](https://github.com/user-attachments/assets/328cd5fd-bd85-45b7-acbb-c1fa30f27e1a)
@@ -48,7 +56,7 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 ![image](https://github.com/user-attachments/assets/7de3c84b-fede-4671-a7e3-db47ec35b9ef)
 
 
-# Modulo VI
+# Modulo V: Data Analytics & Storytelling com Power BI.
 
-# Modelo V
+# Modeulo VI: Gerenciamento de Workspaces e Datasets com Power BI.
 

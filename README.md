@@ -55,7 +55,7 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 
 ![image](https://github.com/user-attachments/assets/7de3c84b-fede-4671-a7e3-db47ec35b9ef)
 
-### Criando Design profissional no Power BI
+### Criando Design profissional para o Power BI.
 ![image](https://github.com/user-attachments/assets/fd118b75-b0a8-49f7-9776-fd48500b1ea4)
 
 ![image](https://github.com/user-attachments/assets/5d2f63e2-273f-48f8-bd75-b14c0620c230)

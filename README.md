@@ -40,6 +40,8 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 
 ![image](https://github.com/user-attachments/assets/9609adea-f8cb-4531-babd-25a9872c4c7b)
 
+![image](https://github.com/user-attachments/assets/34c8cec5-024a-42e4-9daa-b1651782a5db)
+
 ![image](https://github.com/user-attachments/assets/e3d396ec-9df0-40dc-9a4d-b6678f1b22c2)
 
 

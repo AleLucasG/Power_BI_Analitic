@@ -38,7 +38,7 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 ![image](https://github.com/user-attachments/assets/c29252b0-849a-429e-88f4-472fe9162b75)
 
 
-![image](https://github.com/user-attachments/assets/8824c601-140b-4b65-9c32-74ad7e477fb3)
+![image](https://github.com/user-attachments/assets/9609adea-f8cb-4531-babd-25a9872c4c7b)
 
 ![image](https://github.com/user-attachments/assets/e3d396ec-9df0-40dc-9a4d-b6678f1b22c2)
 

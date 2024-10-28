@@ -63,10 +63,11 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 ![image](https://github.com/user-attachments/assets/5d2f63e2-273f-48f8-bd75-b14c0620c230)
 
 # Modulo V: Data Analitics & Storytelling com Power BI.
-- Teoria: Criando Relatórios com foco em experiência do usuário ✓
-- Teoria: Explorando Recursos para criar Storytelling dos dados com Power BI ✓
-- Fundamentos de Data Analytics com Power BI
 - Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+![image](https://github.com/user-attachments/assets/351523d0-c149-44d1-94c2-eac42b856d71)
+![image](https://github.com/user-attachments/assets/b41857e0-cacb-4f1f-9c01-6fbc036819c2)
+![image](https://github.com/user-attachments/assets/d739368f-a43a-44e8-aeaa-0c078cd7cc2e)
+
 - Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
 
 # Modeulo VI: Gerenciamento de Workspaces e Datasets com Power BI.

@@ -63,12 +63,17 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 ![image](https://github.com/user-attachments/assets/5d2f63e2-273f-48f8-bd75-b14c0620c230)
 
 # Modulo V: Data Analitics & Storytelling com Power BI.
-- Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
+- Desafio I: Criando um Dashboard Gerencial para Tomada de Decisões Com Power BI
 ![image](https://github.com/user-attachments/assets/351523d0-c149-44d1-94c2-eac42b856d71)
 ![image](https://github.com/user-attachments/assets/b41857e0-cacb-4f1f-9c01-6fbc036819c2)
 ![image](https://github.com/user-attachments/assets/d739368f-a43a-44e8-aeaa-0c078cd7cc2e)
 
-- Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
+- Desafio II: Criando um Relatório Vendas e Lucros com Data Analytics com Power BI
+![image](https://github.com/user-attachments/assets/b1291ce6-a491-4d6d-b5fa-00268728cb3b)
+![image](https://github.com/user-attachments/assets/83ec70c9-5f95-472e-b0c1-665e1378e699)
+![image](https://github.com/user-attachments/assets/9edd9b8a-9b9e-4cd7-b661-b6e29cce1915)
+![image](https://github.com/user-attachments/assets/d820e473-5bcd-47cb-8d16-7928c7ab0eba)
+![image](https://github.com/user-attachments/assets/85ccbcd3-c40b-4e00-add8-3fb1593979d9)
 
 # Modeulo VI: Gerenciamento de Workspaces e Datasets com Power BI.
 - Gerenciamento de Workspaces com Power BI

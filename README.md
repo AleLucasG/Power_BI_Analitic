@@ -80,3 +80,6 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 - Gerenciamento de Datasets com Power BI
 - Criando Relatórios Dinâmicos com o uso de Parâmetros no Power BI
 
+![image](https://github.com/user-attachments/assets/83dceb79-a586-465f-9b50-6a88981b8cdb)
+
+

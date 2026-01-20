@@ -49,7 +49,7 @@ Link: https://web.dio.me/track/ae00b551-c67c-43fa-8f2a-3591be061982
 - Coleta, Extração, Limpeza, Tranformação e Integração com MySQL e Azure.
 
 
-# Modulo VI: Modelagem de Dados com Power BI.
+# Modulo IV: Modelagem de Dados com Power BI.
 
 ![image](https://github.com/user-attachments/assets/7ee2eedd-5267-4e1b-a6be-c40861a56b0b)
 
